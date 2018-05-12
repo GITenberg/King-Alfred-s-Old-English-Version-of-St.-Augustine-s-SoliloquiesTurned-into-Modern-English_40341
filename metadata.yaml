@@ -1,0 +1,45 @@
+_repo: King-Alfred-s-Old-English-Version-of-St.-Augustine-s-SoliloquiesTurned-into-Modern-English_40341
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Alfred, King of England
+    aliases:
+    - Alfred the Great, King of England
+    - Aelfred, King of England
+    - Alfred, the Wise
+    birthdate: 849
+    deathdate: 899
+    gutenberg_agent_id: '45846'
+    url: http://www.gutenberg.org/2009/agents/45846
+  - agent_name: Hargrove, Henry Lee
+    gutenberg_agent_id: '45852'
+    url: http://www.gutenberg.org/2009/agents/45852
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Augustine, Saint, Bishop of Hippo
+    alias: Augustine, Saint
+    birthdate: 354
+    deathdate: 430
+    gutenberg_agent_id: '1156'
+    url: http://www.gutenberg.org/2009/agents/1156
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_of_Hippo
+description: ''
+gutenberg_issued: '2012-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40341'
+  lccn: '05024220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of (Religion) -- Early works to 1800'
+- !lcc 'PR'
+title: 'King Alfred''s Old English Version of St. Augustine''s Soliloquies
+
+  Turned into Modern English'
+url: http://www.gutenberg.org/ebooks/40341
